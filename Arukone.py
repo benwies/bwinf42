@@ -1,7 +1,7 @@
 '''
 Created on 26.11.2023
 
-@author: Phoenix
+@author: Benedikt Wiesner, Leonard Beinlich
 '''
 import random
 import os
